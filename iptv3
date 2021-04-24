@@ -18,13 +18,13 @@ LIFESTYLE
 
 ############################
 ######### LIFESTYLE ############################
-#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",Fashion TV MIDNIGHT
+#EXTINF:-1 tvg-logo="" group-title="FASHION",Fashion TV MIDNIGHT
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",Fashion TV Midnite Secrets
+#EXTINF:-1 tvg-logo="" group-title="FASHION",Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",HD Fashion & LifeStyle
+#EXTINF:-1 tvg-logo="" group-title="FASHION",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 FTA
