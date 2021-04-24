@@ -72,3 +72,25 @@ https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="FTA", JTV 
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8 
+
+RELIGI
+
+######### RELIGI ############################
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="Religi", Rodja TV 
+https://cdn09jtedge.useetv.com/joss/130/rodjatv/chunklist_w1148811811_b1004100_sleng.m3u8?enc=rUKMIxNHt72uTe4UqT9wdQ&uid=&exp=1619280039 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tawaf.png" group-title="Religi", TawafTV 
+https://cdn09jtedge.useetv.com/joss/130/tawaftv/chunklist_w704183652_b1004100_sleng.m3u8?enc=_738ipZg8STsP7CZbGs_2w&uid=&exp=1619282021 
+#EXTINF:-1 tvg-id="mtatv" tvg-logo="http://kamiselaluada.com/img/mta.png" group-title="Religi", MTA TV 
+https://cdn09jtedge.useetv.com/joss/130/mtatv/chunklist_w487275332_b1004100_sleng.m3u8?enc=BvbARC_-77qHhzSl5L15kw&uid=&exp=1619280039 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mui.png" group-title="Religi", MUI TV 
+https://cdn09jtedge.useetv.com/joss/130/muitv/chunklist_w2055570156_b1004100_sleng.m3u8?enc=QSto6DPUbgOaXfEhfJ0mUw&uid=&exp=1619282019 
+#EXTINF:-1 tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="Religi", AL Quran AL Kareem 
+https://cdn09jtedge.useetv.com/joss/130/alquran/chunklist_w1777856105_b1004100_sleng.m3u8?enc=lL556JZjYFV7jl_3IHselg&uid=&exp=1619280037 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mqtv.png" group-title="Religi", MQTV 
+https://cdn09jtedge.useetv.com/joss/130/mqtv/chunklist_w1366596093_b894100_sleng.m3u8?enc=9W9gmu5qXVY-GZtUk85WZg&uid=&exp=1619280038 
+EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tv9nu.png" group-title="Religi", TV9 NU 
+https://cdn09jtedge.useetv.com/joss/130/tv9/chunklist_w104783017_b1004100_sleng.m3u8?enc=GGjPAQC2o8b-YAXTu4f_cA&uid=&exp=1619280036 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvmu.png" group-title="Religi", Muhammadiyah TV 
+https://cdn09jtedge.useetv.com/joss/130/muhammadiyahtv/chunklist_w388235119_b1004100_sleng.m3u8?enc=JgdET_ZMLsQuY7Dhx-TDEg&uid=&exp=1619280039 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ls1.png" group-title="Lokal",Live Streaming 1 
+http://rr3.dens.tv/s/s100/live.m3u8 
