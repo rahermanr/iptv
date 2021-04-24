@@ -1,0 +1,54 @@
+#EXTINF:-1,TV LIVE APLIKASI
+https://archive.org/download/tak-berjudul-90-360p/Tak%20berjudul%2090_360p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBJXrmd/gtvlogo.png" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="@Local", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="@Local", RTV
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="@Local", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="@Local", TRANS 7
+http://rr2.dens.tv:80/s/s101/01.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+FASHION
+
+############################
+######### FASHION ############################
+#EXTINF:-1 tvg-logo="" group-title="FASHION",Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FASHION",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FASHION",HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+FTA
+
+############################
+######### FTA ############################
+#EXTINF:-1 tvg-logo="" group-title="FTA", ZQ Drama http://iptv.zqstream.com/zqdrama-gen/video.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA", ZQ Sport http://iptv.zqstream.com/zqsport-gen/video.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA", RCTI https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA", GTV https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA", iNEWS https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA",NASA TV https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA",Magna TV https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA",TRANS 7 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA",TRANS TV https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA",CNN INDONESIA https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="FTA",CNBC INDONESIA https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8 
