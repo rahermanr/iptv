@@ -1,6 +1,9 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="" group-title="Pengumuman",Gagal Memuat Playlist 
-http://iptv-wow.my.id/tv/warn.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Pengumuman",www.iptv-wow.my.id 
-http://iptv-wow.my.id/tv/kontak.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HGTV HD" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Server ID",Server ID: HGTV HD
+http://forsat.men:8888/merpatistream/merpati99/3628
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Variety",HGTV
+http://forsat.men:8888/merpatistream/merpati99/537
+
+
